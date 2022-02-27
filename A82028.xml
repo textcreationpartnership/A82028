@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death's universal summons: or, a general call; to all mankind, to the grave: in a dialogue betwixt a presumptious sinner, and the great messenger of mortality; with the righteous man's chearful entertainment of death. To which is added, The dismal doom and state of the rich and covetous man after his death: to seriously considered by all christians</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82028</idno>
+            <idno type="STC">Wing D505A</idno>
+            <idno type="STC">ESTC R231754</idno>
+            <idno type="EEBO-CITATION">99899876</idno>
+            <idno type="PROQUEST">99899876</idno>
+            <idno type="VID">133247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death's universal summons: or, a general call; to all mankind, to the grave: in a dialogue betwixt a presumptious sinner, and the great messenger of mortality; with the righteous man's chearful entertainment of death. To which is added, The dismal doom and state of the rich and covetous man after his death: to seriously considered by all christians</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold at the Hope and Anchor in Patrick-Street; Dublin,</publisher>
+                  <pubPlace>[Dublin] :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133247:1"/>
+            <p>DEATH's Univerſal Summons: Or, a general Call; to all Mankind, to the Grave: In a Dialogue betwixt a preſumptious Sin<g ref="char:EOLhyphen"/>ner, and the great Meſſenger of Mortality; With the righteous Man's chearful Entertainment of Death.</p>
+            <p>To which is Added, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he diſmal Doom and State of the Rich and Covetous Man after his Death: to be ſeriouſly Conſidered by all Chriſtians.</p>
+            <figure>
+               <figDesc>depiction of Death in the guise of a skeleton with an arrow confronting a man</figDesc>
+            </figure>
+            <p>Sold at the Hope and Anchor in Patrick <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>treet: Dublin.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:133247:2" rendition="simple:additions"/>
+            <head>DEATH's Univerſal Summons, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>SINNER.</speaker>
+               <l>WHat Soul amazing Meſſage do I hear!</l>
+               <l>What dreadful Tidings ſoundeth in min<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ear</l>
+               <l>Strange is the Meſſage! and as ſtrangely told!</l>
+               <l>And muſt the Meſſenger not be controul'd?</l>
+               <l>It was but now, that Men of great Repute,</l>
+               <l>With Princely preſents, did make humble ſuit</l>
+               <l>To gain my favour, hoping to eſpy</l>
+               <l>A Copy of an Anſwer in mine Eye.</l>
+               <l>And now, muſt ſuch a breathleſs Ghoſt as this,</l>
+               <l>(In whom no Beauty, Form, or Splendor is)</l>
+               <l>Make me to bear the burden of his Yoke?</l>
+               <l>And make me tremble with his threatned ſtroke?</l>
+               <l>What Melancholly humour hath poſſeſt</l>
+               <l>The Cloſet of my brave Heroick Breaſt?</l>
+               <l>Where's that undaunted Mind I'de wont to have,</l>
+               <l>That now am frighted with this Meager ſlave:</l>
+               <l>Shall I be daunted with one ſimple word,</l>
+               <l>That never us d to fear a naked Sword:</l>
+               <l>I that have made Men tremble at my breath,</l>
+               <l>Shall I be daunted at the Name of Death:</l>
+               <l>I that have boldly venter'd to deny!</l>
+               <l>To yield ſubjection to a Deity.</l>
+               <l>Muſt I at Death's imperious Summons yield,</l>
+               <l>And not ſo much as dare to ſtand the Field:</l>
+               <l>Why Reſts thou me, pale Death? I do command</l>
+               <l>Thee, on my high diſpleaſure, ſtay thy Hand.</l>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:133247:2"/>
+               <speaker>DEATH.</speaker>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'M come to tell thee, thou ſhalt ſurely Dye!</l>
+               <l>Preſumeſt thou to ask a Reaſon why:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et this ſuffice, I'm ſent to ſtrike the ſtroke,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd neither muſt, nor can, nor will revoke:</l>
+               <l>Tho' thou haſt made Men tremble at thy word,</l>
+               <l>And ſcorn'd the terror of the Conquering Sword;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Tis no true Valour, but preſumptious breath,</l>
+               <l>To think great ſwelling words can conquer Death.</l>
+               <l>Thy ſtubborn Heart, that haſt refus'd to know</l>
+               <l>The word of God, ſhall feel his power now.</l>
+               <l>Vain bubble Earth, preſumptious piece of Clay,</l>
+               <l>Yield up thy breath thou muſt this preſent Day.</l>
+            </sp>
+            <sp>
+               <speaker>SINNER.</speaker>
+               <l>THat once I muſt ſubmit to Death is true,</l>
+               <l>For Death will me, and all the world ſubdue:</l>
+               <l>But, why doth Death his Meſſage tell ſo ſoon:</l>
+               <l>Why muſt my Morning-ſun go down at Noon:</l>
+               <l>I'm like a full blown flower, in my prime:</l>
+               <l>My great Concerns call for a longer time:</l>
+               <l>If ſuch as I (by Death) be ſnatcht away,</l>
+               <l>The World of neceſſity muſt decay:</l>
+               <l>When Pillars fall, that do up-hold the Rafter,</l>
+               <l>Undoubtedly, the Houſe will follow after.</l>
+               <l>Man in his ſtrength of Age cannot be ſpar'd,</l>
+               <l>He's like the Helm, by which the Ship is ſtear'd.</l>
+               <l>How many may be better ſpar'd than I,</l>
+               <l>To whom thou ought to let thine Arrows fly:</l>
+               <l>He that by reaſon of Decrepit Age,</l>
+               <l>Sees Death approaching like a nimble Page,</l>
+               <l>With his Attendance (ſorrow, pain, and grief,)</l>
+               <l>Will humbly ſue to Death, to find Relief:</l>
+               <l>Or he that is oppreſt with poverty,</l>
+               <l>Inclos'd in Priſon-walls perpetually:</l>
+               <pb n="4" facs="tcp:133247:3"/>
+               <l> How willingly would theſe poor Souls embrace</l>
+               <l>Death in their Arms: but mine's another Caſe:</l>
+               <l>The ſmiling World, with ſenſe-delighting Charms,</l>
+               <l>Keeps me inlcoſed in her folded Arms.</l>
+               <l>I feel no ſorrow, am not pincht with grief,</l>
+               <l>I make no ſuit to Death to find relief.</l>
+               <l>Dread King of Terrors, grant me this requeſt,</l>
+               <l>Stay yet a while before thou me Arreſt.</l>
+            </sp>
+            <sp>
+               <speaker>DEATH.</speaker>
+               <l>IF neither Youth, nor Infant Innocence,</l>
+               <l>Nor Piety, nor Pride, nor Inſolence,</l>
+               <l>Nor Wealth, nor Wiſdom, never could obtain</l>
+               <l>One Days Reprieve from Death, then 'tis in vain</l>
+               <l>for thee to think my Action to remove,</l>
+               <l>Thy Death's decreed, 'tis ſign'd and ſeal'd above:</l>
+               <l>I take no Bail, but muſt have preſent pay:</l>
+               <l>My Warrant will admit of no delay.</l>
+            </sp>
+            <sp>
+               <speaker>SINNER.</speaker>
+               <l>VVHy doſt thou bring falſe Tidings to my Ears</l>
+               <l>Had not King Hezekiah fifteen Years</l>
+               <l>Added unto his Life, at his requeſt,</l>
+               <l>Why may not I with him, be alſo bleſt:</l>
+               <l>Why may not I with him, find ſo much Grace,</l>
+               <l>At my requeſt, to gain a longer ſpace:</l>
+               <l>I'll uſe the means, in hope to find ſucceſs,</l>
+               <l>As Hezekiah did, I'll do no leſs:</l>
+               <l>Rather than I by Death will be controul'd,</l>
+               <l>I'll drink down Pearls and bath in Liquid Gold,</l>
+               <l>I've good Phiſitians, to whoſe skill I'll truſt:</l>
+               <l>I'll make my Treaſures fly like Summers-duſt.</l>
+            </sp>
+            <sp>
+               <speaker>DEATH.</speaker>
+               <l>'TIs true, indeed, thou haſt an Inſtance given,</l>
+               <l>That once a Man prevail'd for Life with Heaven;</l>
+               <l>The like to which, was never ſeen before:</l>
+               <pb n="5" facs="tcp:133247:3"/>
+               <l> Nor can we ſay, it ever will do more:</l>
+               <l>Moſes obtain'd it not, tho' he deſir'd,</l>
+               <l>But in the Wilderneſs his days expir'd.</l>
+               <l>This one Example is no rule for thee,</l>
+               <l>Altho' thou wert as good a Man as he.</l>
+               <l>He that prevail'd for Life, obtain'd a ſign,</l>
+               <l>By which he knew the Promiſe was Divine,</l>
+               <l>A Miracle of wonder! God doth force</l>
+               <l>Don Phoebus fiery Steeds to change their Courſe:</l>
+               <l>Changing their conſtant motion, makes the Sun</l>
+               <l>Go back fifteen Degrees that he had run:</l>
+               <l>Which ſigns, inſtances, ſerves to let thee know,</l>
+               <l>What God by his Almighty power can do.</l>
+               <l>Gives not the ſmalleſt Reaſon, to believe</l>
+               <l>Thou ſhalt the ſame great benefit receive.</l>
+               <l>Be not deluded with vain Thoughts, for I</l>
+               <l>Come to proclaim thy Death immediately,</l>
+               <l>Tho' thou could'ſt bath in Liquid Gold, and haſt</l>
+               <l>Whole Mines of Treaſures on thy Luſts to waſte:</l>
+               <l>Thy ſenſe-deluded Doctors have no power,</l>
+               <l>To lengthen out thy Thread of Life an Hour.</l>
+            </sp>
+            <sp>
+               <speaker>SINNER.</speaker>
+               <l>HOw unexpectedly am I ſurpriz'd,</l>
+               <l>Before I have about my Soul advis'd:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath, like a Fowler, hath me now enſnar'd:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd dye I muſt, before I be prepar'd:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> give me ſpace, I may amend my ways:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut me not off juſt in my Noon of days.</l>
+            </sp>
+            <sp>
+               <speaker>DEATH.</speaker>
+               <l>O Fooliſh Man! the time that God hath given</l>
+               <l>Th'ſt laviſht out, and never thought of Heaven</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or yet of Hell, that place of puniſhment:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or of thy ſins: nor ever would'ſt Repent,</l>
+               <pb n="6" facs="tcp:133247:4"/>
+               <l> Till now, that thou art at the point of Death,</l>
+               <l>And art a gaſping for thy lateſt breath:</l>
+               <l>But now it is too late, thou gaſps and dies:</l>
+               <l>The Tree's cut down and falls, and ſo it lies,</l>
+               <l>Until that Soul-amazing Trumpet make</l>
+               <l>The Earth to tremble, and her duſt to 'wake:</l>
+               <l>And then ſhall every Soul of Man appear</l>
+               <l>Before the Judge of Heaven and Earth, and there</l>
+               <l>To Righteous Judgment God will have regard,</l>
+               <l>And give to every one a juſt reward:</l>
+               <l>The Juſt of everlaſting Comfort ſhall not miſs:</l>
+               <l>As for the Wicked, this their ſentence is:</l>
+               <l>Depart ye Curſed, that did hate the Light,</l>
+               <l>Go enter now into Eternal Night!</l>
+               <l>Depart you Workers of Iniquity!</l>
+               <l>Go Live for-ever, yet for-ever Die!</l>
+               <l>I know you not! you have in ſin delighted!</l>
+               <l>Your Souls ſhall now for-ever be be-nighted</l>
+            </sp>
+            <sp>
+               <speaker>SINNER.</speaker>
+               <l>O That the Minutes I have yet to ſpend,</l>
+               <l>Were numberleſs! O that they had no End!</l>
+               <l>But Death's approaching, that unwelcome ſlave!</l>
+               <l>Tells me, no longer time I here muſt have!</l>
+               <l>My Courſe is finiſht: Ah! but void of Faith!</l>
+               <l>Wherefore, moſt dreadful is the thoughts of Death.</l>
+               <l>Farewel, my pleaſures! Now begins my woe!</l>
+               <l>Farewel, farewel the means of Grace alſo!</l>
+               <l>Farewel good Counſel, Counſel I have rejected!</l>
+               <l>And, Farewel evil Counſel I affected!</l>
+               <l>Farewel my Luſts, that have of Hopes bereft me!</l>
+               <l>You've brought me to my Grave, and there you've lef<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </sp>
+            <lg>
+               <l>Lo! thus the Wicked in a ſnare is caught:</l>
+               <l>Their burning Taper with a ſting goes out:</l>
+               <l>He leaves all Joy and Comfort when he dies:</l>
+               <l>But with the Righteous, it is otherwiſe:</l>
+               <pb n="7" facs="tcp:133247:4"/>
+               <l> The Righteous in this world is like a ſtranger,</l>
+               <l>Floating as it 'twere, upon a Sea of danger,</l>
+               <l>Death's but a preſent gale to waft them o're,</l>
+               <l>And brings him ſafe to his deſired ſhore:</l>
+               <l>Where he is free from fears of future harms,</l>
+               <l>From Rocks and Sands, from Pirates, and from ſtorms.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A Righteous Man's Entertainment of <hi>Death.</hi>
+            </head>
+            <lg>
+               <l>FEw were my Days, and ſhort hath been my Race,</l>
+               <l>Now in my Arms I freely Death Embrace:</l>
+               <l>Through Death, as through a Proſpect, I behold</l>
+               <l>A Crown that's far more Excellent than Gold.</l>
+               <l>Farewel you Rocks and Sands! farewel you Storms!</l>
+               <l>Farewel Tempeſtuous Seas! for, in my Arms,</l>
+               <l>My Friend I do Embrace, that will relieve me:</l>
+               <l>The Worlds temptations now no more will grieve me</l>
+               <l>My Soul is free from grief, my Eyes from tears:</l>
+               <l>My Hand from ſinning, and my Heart from fears</l>
+               <l>Of falling ſhort of Heaven, that promis'd reſt,</l>
+               <l>With which all true Believers ſhall be bleſt.</l>
+               <l>I leave a World of ſorrow, grief and pain,</l>
+               <l>In full Aſſurance to Ariſe again:</l>
+               <l>I turn my back upon a Night of ſorrow,</l>
+               <l>And ſhall awake to a joyful Morrow:</l>
+               <l>A Morning beautify'd with ſplendor bright,</l>
+               <l>Whoſe glorious Noon ſhall never ſee a Night:</l>
+               <l>Tho' Death do now my fleſhly part ſurprize,</l>
+               <l>Stopping my Breath, and cloſing up mine Eyes:</l>
+               <l>When Death ſhall both his ſtroke and Meſſage ceaſe,</l>
+               <l>Then ſhall my Soul enjoy Eternal Peace:</l>
+               <l>Yea, now their pointed ſhafts have loſt their ſting,</l>
+               <l>Altho' on Earth thou Reigneſt as a King:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Heaven, Death muſt lay aſide his Dart:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Tis but on Earth, that it muſt act its part:</l>
+               <l>Then welcome Death, thine Arrows cannot harm me:</l>
+               <l>Nor ſhall thy threatned ſtroke, of hope, diſ-arm me.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:133247:5"/>
+            <head>The diſmal Doom and State of the Rich and Covetous Man after his Death.</head>
+            <lg>
+               <l>WHen once his Diſſolution-Hour is come,</l>
+               <l>Out go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Soul to hear her Final Doom.</l>
+               <l>Th' Rich Man's black Ghoſt (all Horror and Diſpair)</l>
+               <l>Is from its Priſon ſnatch'd to th' diſmal Bar.</l>
+               <l>Behind him the impatient Devils roar,</l>
+               <l>His Sins (thoſe worſt of Devils) ſtand before.</l>
+               <l>With terrors thus beſieg'd in every place,</l>
+               <l>He hears a Voice, but might not ſee the Face.</l>
+               <l>"Go thou accurſt, Vile Caitiff, hence away</l>
+               <l>"To damned Ghoſts. Come Devils, take your Prey</l>
+               <l>Struck with this Thunder, down he ſunk he fell,</l>
+               <l>And was a triumph to the Fiends of Hell.</l>
+               <l>Th' ingenious Tirants did a Council pack,</l>
+               <l>Their Malice ſet their Wits upon the Wrack.</l>
+               <l>When they had jointly ſtudy'd to torment,</l>
+               <l>For their pale Priſoner then in haſte they ſent,</l>
+               <l>They chain d and ſtak'd him to a furious Flame,</l>
+               <l>Where conſtant ſtreams of Brimſtone feed the ſame.</l>
+               <l>Behold Sins Martyr and Hell's Sacrifice!</l>
+               <l>He Yells and Howls and vents unpity'd Cries,</l>
+               <l>He finds no friendly Ear or tender Eye,</l>
+               <l>He feels a thouſand Deaths but cannot dye.</l>
+               <l>Like burning Braſs he's fir'd in every part,</l>
+               <l>A Vulture lives upon his Living Heart.</l>
+               <l>God's gone, he's gone. And what an Hell is this</l>
+               <l>To be depriv'd of everlaſting Bliſs!</l>
+               <l>O this Eternal Baniſhment is worſe</l>
+               <l>Then all the Remnant of the Doom's Day Curſe.</l>
+            </lg>
+            <epigraph>
+               <q>O Conſider this, you that forget God leaſt he tea you in pieces, and there be none to deliver yo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </q>
+               <bibl>Pſal. 50.22.</bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133247:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
